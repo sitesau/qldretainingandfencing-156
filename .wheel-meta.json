@@ -1,0 +1,22 @@
+{
+  "wheel_id": 924,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-156",
+  "project": "retaining-wall-installers-brisbane-70d2facd9dd390ee7bd1fa029d5c",
+  "parent_t1_ref": "qldretainingandfencing-011",
+  "node_role": "buffer",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall installers brisbane",
+  "intended_url": "https://sitesau.github.io/qldretainingandfencing-156/",
+  "tier": "T2",
+  "writeback_nonce": "d3cb4d0c98f2946b",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/retaining-wall-installers-brisbane/",
+      "anchor": "Retaining Wall Installers Brisbane: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
